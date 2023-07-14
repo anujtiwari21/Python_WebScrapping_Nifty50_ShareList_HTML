@@ -1,0 +1,954 @@
+<div style="overflow-x:auto;width: 100%;">
+        <table width="100%" cellspacing="0" cellpadding="0" border="0" class="mystocksbig mystocks newtab cls">
+        <thead>
+            <tr>
+            <th class="alignleft thft thfr brdl" colspan="2"> Jul 14, 2023 10:59:59 AM </th>
+            <th class="thft thfn msgain" colspan="5" align="center"> NSE Index: 19,456.4 (+43 pts / <small class="nospace" style="display:inline;font-size:inherit">0.2%</small>)<input type="hidden" value="19456.4" name="bse" id="hdnBSE"></th>
+            
+            <th class="alignright thft thfl" colspan="5">1 US$ = Rs 82.84 </th>
+            </tr>
+
+            <tr>
+                
+                <th class="alignleft large" rowspan="2"><a href="nse-replica.asp?order=symbol.dispname">COMPANY</a></th>
+                
+                <th class="alignleft large" rowspan="2"><a href="nse-replica.asp?order=researchText.sector">INDUSTRY</a></th>
+                
+                <th class="alignright large" rowspan="2"><a href="nse-replica.asp?order=nse.[close] desc">MARKET PRICE<small>(Rs)</small></a></th>
+                
+                <th class="alignright arrow" rowspan="2"><a href="nse-replica.asp?order=nse.change">CHANGE<small>(%)</small></a><span><img src="https://www.eqimg.com/researchmaster/images/down-trans.gif" alt="desc" title="desc" width="10" height="9" valign="absmiddle"></span></th>
+                
+                <th class="alignright large" rowspan="2"><a href="nse-replica.asp?order=researchText.no_shares_act desc">NO OF<br>SHARES<small>(m)</small></a></th>
+                
+                <th class="alignright large" rowspan="2"><a href="nse-replica.asp?order=mktcap desc">MARKET CAP.**<small>(Rs m)</small></a></th>
+                
+                 <th colspan="4">Based on Equitymaster Estimates<br>and Publicly Available Information</th> 
+            </tr>
+            <tr>
+                
+                <th class="alignright large"><a href="nse-replica.asp?order=Free_Float_Shares desc">FREE FLOAT <br>ADJ. FACTOR#</a></th>
+                
+                <th class="alignright large"><a href="nse-replica.asp?order=researchText.earnings desc">EARNINGS *<small>(Rs m)</small></a></th>
+                
+                <th class="alignright large"><a href="nse-replica.asp?order=eps desc">EPS<small>(Rs)</small></a></th>
+                
+                <th class="alignright large"><a href="nse-replica.asp?order=per desc">PER<small>(X)</small></a></th>
+                
+            </tr>
+        </thead>
+        <tbody>
+        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=TEMH&amp;name=TECH-MAHINDRA-Stock-Quote-Chart">TECH MAHINDRA</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/software">SOFTWARE</a></td>
+	        
+	        <td class="alignright">1,204.5</td>
+	        <td class="alignright msgain"><small>2.5</small></td>
+	        <td class="alignright">974.7<input type="hidden" id="TEMHwtg" name="TEMHwtg" value="1.4"></td>
+	        <td class="alignright">1,174,082</td>
+	        
+	        <td class="alignright">0.6</td>
+	        
+	        <td class="alignright">48,860
+	        </td>
+	        <td class="alignright">50.1</td>
+	        <td class="alignright">24.0</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=INFY&amp;name=INFOSYS-Stock-Quote-Chart">INFOSYS</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/software">SOFTWARE</a></td>
+	        
+	        <td class="alignright">1,396.3</td>
+	        <td class="alignright msgain"><small>2.3</small></td>
+	        <td class="alignright">4,150.2<input type="hidden" id="INFYwtg" name="INFYwtg" value="6.9"></td>
+	        <td class="alignright">5,794,706</td>
+	        
+	        <td class="alignright">0.8</td>
+	        
+	        <td class="alignright">241,080
+	        </td>
+	        <td class="alignright">58.1</td>
+	        <td class="alignright">24.0</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=HTECH&amp;name=HCL-TECHNOLOGIES-Stock-Quote-Chart">HCL TECHNOLOGIES</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/software">SOFTWARE</a></td>
+	        
+	        <td class="alignright">1,133.3</td>
+	        <td class="alignright msgain"><small>2.2</small></td>
+	        <td class="alignright">2,713.7<input type="hidden" id="HTECHwtg" name="HTECHwtg" value="3.7"></td>
+	        <td class="alignright">3,075,261</td>
+	        
+	        <td class="alignright">0.4</td>
+	        
+	        <td class="alignright">150,950
+	        </td>
+	        <td class="alignright">55.6</td>
+	        <td class="alignright">20.4</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=HALC&amp;name=HINDALCO-Stock-Quote-Chart">HINDALCO</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/aluminium">ALUMINIUM</a></td>
+	        
+	        <td class="alignright">443.8</td>
+	        <td class="alignright msgain"><small>2.0</small></td>
+	        <td class="alignright">2,247.2<input type="hidden" id="HALCwtg" name="HALCwtg" value="1.2"></td>
+	        <td class="alignright">997,193</td>
+	        
+	        <td class="alignright">0.7</td>
+	        
+	        <td class="alignright">100,880
+	        </td>
+	        <td class="alignright">44.9</td>
+	        <td class="alignright">9.9</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=ECHM&amp;name=EICHER-MOTORS-Stock-Quote-Chart">EICHER MOTORS</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/auto">AUTOMOBILES</a></td>
+	        
+	        <td class="alignright">3,309.3</td>
+	        <td class="alignright msgain"><small>1.6</small></td>
+	        <td class="alignright">273.7<input type="hidden" id="ECHMwtg" name="ECHMwtg" value="1.1"></td>
+	        <td class="alignright">905,618</td>
+	        
+	        <td class="alignright">0.5</td>
+	        
+	        <td class="alignright">25,988
+	        </td>
+	        <td class="alignright">95.0</td>
+	        <td class="alignright">34.8</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=LTI&amp;name=LTIMINDTREE-Stock-Quote-Chart">LTIMINDTREE</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/software">SOFTWARE</a></td>
+	        
+	        <td class="alignright">4,960.9</td>
+	        <td class="alignright msgain"><small>1.4</small></td>
+	        <td class="alignright">295.9<input type="hidden" id="LTIwtg" name="LTIwtg" value="1.7"></td>
+	        <td class="alignright">1,467,870</td>
+	        
+	        <td class="alignright">0.3</td>
+	        
+	        <td class="alignright">34,290
+	        </td>
+	        <td class="alignright">115.9</td>
+	        <td class="alignright">42.8</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=TCS&amp;name=TCS-Stock-Quote-Chart">TCS</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/software">SOFTWARE</a></td>
+	        
+	        <td class="alignright">3,385.1</td>
+	        <td class="alignright msgain"><small>1.3</small></td>
+	        <td class="alignright">3,659.1<input type="hidden" id="TCSwtg" name="TCSwtg" value="14.7"></td>
+	        <td class="alignright">12,386,072</td>
+	        
+	        <td class="alignright">0.3</td>
+	        
+	        <td class="alignright">439,040
+	        </td>
+	        <td class="alignright">120.0</td>
+	        <td class="alignright">28.2</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=IOC&amp;name=IOC-Stock-Quote-Chart">IOC</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/energy">ENERGY</a></td>
+	        
+	        <td class="alignright">97.1</td>
+	        <td class="alignright msgain"><small>0.9</small></td>
+	        <td class="alignright">14,121.2<input type="hidden" id="IOCwtg" name="IOCwtg" value="1.6"></td>
+	        <td class="alignright">1,370,466</td>
+	        
+	        <td class="alignright">0.5</td>
+	        
+	        <td class="alignright">108,421
+	        </td>
+	        <td class="alignright">7.7</td>
+	        <td class="alignright">12.6</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=ONGC&amp;name=ONGC-Stock-Quote-Chart">ONGC</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/energy">ENERGY</a></td>
+	        
+	        <td class="alignright">169.0</td>
+	        <td class="alignright msgain"><small>0.7</small></td>
+	        <td class="alignright">12,580.3<input type="hidden" id="ONGCwtg" name="ONGCwtg" value="2.5"></td>
+	        <td class="alignright">2,126,067</td>
+	        
+	        <td class="alignright">0.4</td>
+	        
+	        <td class="alignright">327,436
+	        </td>
+	        <td class="alignright">26.0</td>
+	        <td class="alignright">6.5</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=HROH&amp;name=HERO-MOTOCORP-Stock-Quote-Chart">HERO MOTOCORP</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/auto">AUTOMOBILES</a></td>
+	        
+	        <td class="alignright">3,093.5</td>
+	        <td class="alignright msgain"><small>0.7</small></td>
+	        <td class="alignright">199.8<input type="hidden" id="HROHwtg" name="HROHwtg" value="0.7"></td>
+	        <td class="alignright">618,200</td>
+	        
+	        <td class="alignright">0.7</td>
+	        
+	        <td class="alignright">27,968
+	        </td>
+	        <td class="alignright">140.0</td>
+	        <td class="alignright">22.1</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=HLL&amp;name=HUL-Stock-Quote-Chart">HUL</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/consprds">FMCG</a></td>
+	        
+	        <td class="alignright">2,670.9</td>
+	        <td class="alignright msgain"><small>0.6</small></td>
+	        <td class="alignright">2,349.6<input type="hidden" id="HLLwtg" name="HLLwtg" value="7.5"></td>
+	        <td class="alignright">6,275,523</td>
+	        
+	        <td class="alignright">0.4</td>
+	        
+	        <td class="alignright">101,450
+	        </td>
+	        <td class="alignright">43.2</td>
+	        <td class="alignright">61.9</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=UNPS&amp;name=UPL-Stock-Quote-Chart">UPL </a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/chemicals">CHEMICALS</a></td>
+	        
+	        <td class="alignright">634.7</td>
+	        <td class="alignright msgain"><small>0.6</small></td>
+	        <td class="alignright">750.6<input type="hidden" id="UNPSwtg" name="UNPSwtg" value="0.6"></td>
+	        <td class="alignright">476,411</td>
+	        
+	        <td class="alignright">0.7</td>
+	        
+	        <td class="alignright">42,570
+	        </td>
+	        <td class="alignright">56.7</td>
+	        <td class="alignright">11.2</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=COIND&amp;name=COAL-INDIA-Stock-Quote-Chart">COAL INDIA</a></td>
+	        
+	        <td class="alignleft">MINING</td>
+	        
+	        <td class="alignright">231.2</td>
+	        <td class="alignright msgain"><small>0.6</small></td>
+	        <td class="alignright">6,162.7<input type="hidden" id="COINDwtg" name="COINDwtg" value="1.7"></td>
+	        <td class="alignright">1,424,823</td>
+	        
+	        <td class="alignright">0.4</td>
+	        
+	        <td class="alignright">281,331
+	        </td>
+	        <td class="alignright">45.7</td>
+	        <td class="alignright">5.1</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=DIVI&amp;name=DIVIS-LABORATORIES-Stock-Quote-Chart">DIVIS LABORATORIES</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/pharma">PHARMACEUTICALS</a></td>
+	        
+	        <td class="alignright">3,639.0</td>
+	        <td class="alignright msgain"><small>0.5</small></td>
+	        <td class="alignright">265.5<input type="hidden" id="DIVIwtg" name="DIVIwtg" value="1.1"></td>
+	        <td class="alignright">966,027</td>
+	        
+	        <td class="alignright">0.5</td>
+	        
+	        <td class="alignright">18,234
+	        </td>
+	        <td class="alignright">68.7</td>
+	        <td class="alignright">53.0</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=TTEA&amp;name=TATA-CONSUMER-Stock-Quote-Chart">TATA CONSUMER</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/consprds">FMCG</a></td>
+	        
+	        <td class="alignright">841.2</td>
+	        <td class="alignright msgain"><small>0.5</small></td>
+	        <td class="alignright">929.0<input type="hidden" id="TTEAwtg" name="TTEAwtg" value="0.9"></td>
+	        <td class="alignright">781,438</td>
+	        
+	        <td class="alignright">0.7</td>
+	        
+	        <td class="alignright">13,465
+	        </td>
+	        <td class="alignright">14.5</td>
+	        <td class="alignright">58.0</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=CIPL&amp;name=CIPLA-Stock-Quote-Chart">CIPLA</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/pharma">PHARMACEUTICALS</a></td>
+	        
+	        <td class="alignright">1,025.0</td>
+	        <td class="alignright msgain"><small>0.4</small></td>
+	        <td class="alignright">807.2<input type="hidden" id="CIPLwtg" name="CIPLwtg" value="1.0"></td>
+	        <td class="alignright">827,420</td>
+	        
+	        <td class="alignright">0.7</td>
+	        
+	        <td class="alignright">28,355
+	        </td>
+	        <td class="alignright">35.1</td>
+	        <td class="alignright">29.2</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=LART&amp;name=LT-Stock-Quote-Chart">L&amp;T</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/engg">ENGINEERING</a></td>
+	        
+	        <td class="alignright">2,460.1</td>
+	        <td class="alignright msgain"><small>0.4</small></td>
+	        <td class="alignright">1,405.6<input type="hidden" id="LARTwtg" name="LARTwtg" value="4.1"></td>
+	        <td class="alignright">3,457,850</td>
+	        
+	        <td class="alignright">1.0</td>
+	        
+	        <td class="alignright">126,249
+	        </td>
+	        <td class="alignright">89.8</td>
+	        <td class="alignright">27.4</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=ICBK&amp;name=ICICI-BANK-Stock-Quote-Chart">ICICI BANK</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/bank">BANKING</a></td>
+	        
+	        <td class="alignright">959.6</td>
+	        <td class="alignright msgain"><small>0.4</small></td>
+	        <td class="alignright">6,997.2<input type="hidden" id="ICBKwtg" name="ICBKwtg" value="8.0"></td>
+	        <td class="alignright">6,714,153</td>
+	        
+	        <td class="alignright">1.0</td>
+	        
+	        <td class="alignright">344,630
+	        </td>
+	        <td class="alignright">49.3</td>
+	        <td class="alignright">19.5</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=BPCL&amp;name=BPCL-Stock-Quote-Chart">BPCL</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/energy">ENERGY</a></td>
+	        
+	        <td class="alignright">381.1</td>
+	        <td class="alignright msgain"><small>0.4</small></td>
+	        <td class="alignright">2,169.3<input type="hidden" id="BPCLwtg" name="BPCLwtg" value="1.0"></td>
+	        <td class="alignright">826,594</td>
+	        
+	        <td class="alignright">0.5</td>
+	        
+	        <td class="alignright">-609
+	        </td>
+	        <td class="alignright">-0.3</td>
+	        <td class="alignright">-</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=TISCO&amp;name=TATA-STEEL-Stock-Quote-Chart">TATA STEEL</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/steel">STEEL</a></td>
+	        
+	        <td class="alignright">115.2</td>
+	        <td class="alignright msgain"><small>0.3</small></td>
+	        <td class="alignright">12,221.5<input type="hidden" id="TISCOwtg" name="TISCOwtg" value="1.7"></td>
+	        <td class="alignright">1,407,912</td>
+	        
+	        <td class="alignright">0.7</td>
+	        
+	        <td class="alignright">76,572
+	        </td>
+	        <td class="alignright">6.3</td>
+	        <td class="alignright">18.4</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=WPRO&amp;name=WIPRO-Stock-Quote-Chart">WIPRO</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/software">SOFTWARE</a></td>
+	        
+	        <td class="alignright">395.5</td>
+	        <td class="alignright msgain"><small>0.3</small></td>
+	        <td class="alignright">5,219.2<input type="hidden" id="WPROwtg" name="WPROwtg" value="2.5"></td>
+	        <td class="alignright">2,063,924</td>
+	        
+	        <td class="alignright">0.3</td>
+	        
+	        <td class="alignright">116,975
+	        </td>
+	        <td class="alignright">22.4</td>
+	        <td class="alignright">17.6</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=TELCO&amp;name=TATA-MOTORS-Stock-Quote-Chart">TATA MOTORS</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/auto">AUTOMOBILES</a></td>
+	        
+	        <td class="alignright">622.4</td>
+	        <td class="alignright msgain"><small>0.3</small></td>
+	        <td class="alignright">3,321.9<input type="hidden" id="TELCOwtg" name="TELCOwtg" value="2.5"></td>
+	        <td class="alignright">2,067,361</td>
+	        
+	        <td class="alignright">0.5</td>
+	        
+	        <td class="alignright">23,535
+	        </td>
+	        <td class="alignright">7.1</td>
+	        <td class="alignright">87.8</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=KOTAK&amp;name=KOTAK-MAHINDRA-BANK-Stock-Quote-Chart">KOTAK MAHINDRA BANK</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/bank">BANKING</a></td>
+	        
+	        <td class="alignright">1,874.5</td>
+	        <td class="alignright msgain"><small>0.3</small></td>
+	        <td class="alignright">1,987.2<input type="hidden" id="KOTAKwtg" name="KOTAKwtg" value="4.4"></td>
+	        <td class="alignright">3,725,029</td>
+	        
+	        <td class="alignright">0.7</td>
+	        
+	        <td class="alignright">147,804
+	        </td>
+	        <td class="alignright">74.4</td>
+	        <td class="alignright">25.2</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=ITC&amp;name=ITC-Stock-Quote-Chart">ITC</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/food">FOOD &amp; TOBACCO</a></td>
+	        
+	        <td class="alignright">472.8</td>
+	        <td class="alignright msgain"><small>0.2</small></td>
+	        <td class="alignright">12,451.2<input type="hidden" id="ITCwtg" name="ITCwtg" value="7.0"></td>
+	        <td class="alignright">5,886,326</td>
+	        
+	        <td class="alignright">1.0</td>
+	        
+	        <td class="alignright">194,277
+	        </td>
+	        <td class="alignright">15.6</td>
+	        <td class="alignright">30.3</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=JLVY&amp;name=JSW-STEEL-Stock-Quote-Chart">JSW STEEL</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/steel">STEEL</a></td>
+	        
+	        <td class="alignright">803.4</td>
+	        <td class="alignright msgain"><small>0.2</small></td>
+	        <td class="alignright">2,417.2<input type="hidden" id="JLVYwtg" name="JLVYwtg" value="2.3"></td>
+	        <td class="alignright">1,941,995</td>
+	        
+	        <td class="alignright">0.5</td>
+	        
+	        <td class="alignright">42,760
+	        </td>
+	        <td class="alignright">17.7</td>
+	        <td class="alignright">45.4</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=HDBK&amp;name=HDFC-BANK-Stock-Quote-Chart">HDFC BANK</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/bank">BANKING</a></td>
+	        
+	        <td class="alignright">1,643.0</td>
+	        <td class="alignright msgain"><small>0.1</small></td>
+	        <td class="alignright">5,591.8<input type="hidden" id="HDBKwtg" name="HDBKwtg" value="10.9"></td>
+	        <td class="alignright">9,187,046</td>
+	        
+	        <td class="alignright">0.7</td>
+	        
+	        <td class="alignright">461,487
+	        </td>
+	        <td class="alignright">82.5</td>
+	        <td class="alignright">19.9</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=BAJAU&amp;name=BAJAJ-AUTO-Stock-Quote-Chart">BAJAJ AUTO</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/auto">AUTOMOBILES</a></td>
+	        
+	        <td class="alignright">4,870.0</td>
+	        <td class="alignright msgain"><small>0.1</small></td>
+	        <td class="alignright">283.0<input type="hidden" id="BAJAUwtg" name="BAJAUwtg" value="1.6"></td>
+	        <td class="alignright">1,378,003</td>
+	        
+	        <td class="alignright">0.5</td>
+	        
+	        <td class="alignright">55,309
+	        </td>
+	        <td class="alignright">195.5</td>
+	        <td class="alignright">24.9</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=NEST&amp;name=NESTLE-Stock-Quote-Chart">NESTLE</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/food">FOOD &amp; TOBACCO</a></td>
+	        
+	        <td class="alignright">22,830.0</td>
+	        <td class="alignright msgain"><small>0.0</small></td>
+	        <td class="alignright">96.4<input type="hidden" id="NESTwtg" name="NESTwtg" value="2.6"></td>
+	        <td class="alignright">2,201,170</td>
+	        
+	        <td class="alignright">0.4</td>
+	        
+	        <td class="alignright">25,484
+	        </td>
+	        <td class="alignright">264.3</td>
+	        <td class="alignright">86.4</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=SLIC&amp;name=SBI-LIFE-INSURANCE-Stock-Quote-Chart">SBI LIFE INSURANCE </a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/insurance">INSURANCE</a></td>
+	        
+	        <td class="alignright">1,314.0</td>
+	        <td class="alignright msgain"><small>0.0</small></td>
+	        <td class="alignright">1,001.0<input type="hidden" id="SLICwtg" name="SLICwtg" value="1.6"></td>
+	        <td class="alignright">1,315,219</td>
+	        
+	        <td class="alignright">0.4</td>
+	        
+	        <td class="alignright">17,206
+	        </td>
+	        <td class="alignright">17.2</td>
+	        <td class="alignright">76.4</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=MARUTI&amp;name=MARUTI-SUZUKI-Stock-Quote-Chart">MARUTI SUZUKI</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/auto">AUTOMOBILES</a></td>
+	        
+	        <td class="alignright">9,642.0</td>
+	        <td class="alignright msloss"><small>-0.1</small></td>
+	        <td class="alignright">302.1<input type="hidden" id="MARUTIwtg" name="MARUTIwtg" value="3.5"></td>
+	        <td class="alignright">2,912,656</td>
+	        
+	        <td class="alignright">0.4</td>
+	        
+	        <td class="alignright">80,336
+	        </td>
+	        <td class="alignright">265.9</td>
+	        <td class="alignright">36.3</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=INDIN&amp;name=INDUSIND-BANK-Stock-Quote-Chart">INDUSIND BANK</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/bank">BANKING</a></td>
+	        
+	        <td class="alignright">1,374.7</td>
+	        <td class="alignright msloss"><small>-0.1</small></td>
+	        <td class="alignright">776.0<input type="hidden" id="INDINwtg" name="INDINwtg" value="1.3"></td>
+	        <td class="alignright">1,066,799</td>
+	        
+	        <td class="alignright">0.8</td>
+	        
+	        <td class="alignright">74,431
+	        </td>
+	        <td class="alignright">95.9</td>
+	        <td class="alignright">14.3</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=RELI&amp;name=RELIANCE-IND-Stock-Quote-Chart">RELIANCE IND.</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/energy">ENERGY</a></td>
+	        
+	        <td class="alignright">2,739.7</td>
+	        <td class="alignright msloss"><small>-0.1</small></td>
+	        <td class="alignright">6,766.1<input type="hidden" id="RELIwtg" name="RELIwtg" value="22.0"></td>
+	        <td class="alignright">18,536,771</td>
+	        
+	        <td class="alignright">0.5</td>
+	        
+	        <td class="alignright">741,310
+	        </td>
+	        <td class="alignright">109.6</td>
+	        <td class="alignright">25.0</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=ASPN&amp;name=ASIAN-PAINTS-Stock-Quote-Chart">ASIAN PAINTS</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/paint">PAINTS</a></td>
+	        
+	        <td class="alignright">3,394.1</td>
+	        <td class="alignright msloss"><small>-0.1</small></td>
+	        <td class="alignright">959.2<input type="hidden" id="ASPNwtg" name="ASPNwtg" value="3.9"></td>
+	        <td class="alignright">3,255,565</td>
+	        
+	        <td class="alignright">0.5</td>
+	        
+	        <td class="alignright">41,015
+	        </td>
+	        <td class="alignright">42.8</td>
+	        <td class="alignright">79.4</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=MNDRA&amp;name=ADANI-PORTS--SEZ-Stock-Quote-Chart">ADANI PORTS &amp; SEZ</a></td>
+	        
+	        <td class="alignleft">MISCELLANEOUS</td>
+	        
+	        <td class="alignright">715.9</td>
+	        <td class="alignright msloss"><small>-0.2</small></td>
+	        <td class="alignright">2,160.1<input type="hidden" id="MNDRAwtg" name="MNDRAwtg" value="1.8"></td>
+	        <td class="alignright">1,546,335</td>
+	        
+	        <td class="alignright">0.4</td>
+	        
+	        <td class="alignright">51,711
+	        </td>
+	        <td class="alignright">23.9</td>
+	        <td class="alignright">29.9</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=GRSM&amp;name=GRASIM-Stock-Quote-Chart">GRASIM</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/textiles">TEXTILES</a></td>
+	        
+	        <td class="alignright">1,756.0</td>
+	        <td class="alignright msloss"><small>-0.2</small></td>
+	        <td class="alignright">658.4<input type="hidden" id="GRSMwtg" name="GRSMwtg" value="1.4"></td>
+	        <td class="alignright">1,156,207</td>
+	        
+	        <td class="alignright">0.6</td>
+	        
+	        <td class="alignright">108,692
+	        </td>
+	        <td class="alignright">165.1</td>
+	        <td class="alignright">10.6</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=SBI&amp;name=SBI-Stock-Quote-Chart">SBI</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/bank">BANKING</a></td>
+	        
+	        <td class="alignright">584.1</td>
+	        <td class="alignright msloss"><small>-0.3</small></td>
+	        <td class="alignright">8,924.6<input type="hidden" id="SBIwtg" name="SBIwtg" value="6.2"></td>
+	        <td class="alignright">5,212,419</td>
+	        
+	        <td class="alignright">0.4</td>
+	        
+	        <td class="alignright">565,584
+	        </td>
+	        <td class="alignright">63.4</td>
+	        <td class="alignright">9.2</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=BTVL&amp;name=BHARTI-AIRTEL-Stock-Quote-Chart">BHARTI AIRTEL</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/telecom">TELECOM</a></td>
+	        
+	        <td class="alignright">882.1</td>
+	        <td class="alignright msloss"><small>-0.3</small></td>
+	        <td class="alignright">5,984.9<input type="hidden" id="BTVLwtg" name="BTVLwtg" value="6.3"></td>
+	        <td class="alignright">5,279,263</td>
+	        
+	        <td class="alignright">0.4</td>
+	        
+	        <td class="alignright">115,353
+	        </td>
+	        <td class="alignright">19.3</td>
+	        <td class="alignright">45.8</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=REDY&amp;name=DR-REDDYS-LAB-Stock-Quote-Chart">DR. REDDYS LAB</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/pharma">PHARMACEUTICALS</a></td>
+	        
+	        <td class="alignright">5,122.8</td>
+	        <td class="alignright msloss"><small>-0.4</small></td>
+	        <td class="alignright">166.6<input type="hidden" id="REDYwtg" name="REDYwtg" value="1.0"></td>
+	        <td class="alignright">853,231</td>
+	        
+	        <td class="alignright">0.7</td>
+	        
+	        <td class="alignright">44,702
+	        </td>
+	        <td class="alignright">268.4</td>
+	        <td class="alignright">19.1</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=CEMCO&amp;name=ULTRATECH-CEMENT-Stock-Quote-Chart">ULTRATECH CEMENT</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/cement">CEMENT</a></td>
+	        
+	        <td class="alignright">8,196.4</td>
+	        <td class="alignright msloss"><small>-0.5</small></td>
+	        <td class="alignright">288.7<input type="hidden" id="CEMCOwtg" name="CEMCOwtg" value="2.8"></td>
+	        <td class="alignright">2,366,174</td>
+	        
+	        <td class="alignright">0.4</td>
+	        
+	        <td class="alignright">50,694
+	        </td>
+	        <td class="alignright">175.6</td>
+	        <td class="alignright">46.7</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=BAFIN&amp;name=BAJAJ-FINSERV-Stock-Quote-Chart">BAJAJ FINSERV</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/finance">FINANCE</a></td>
+	        
+	        <td class="alignright">1,605.6</td>
+	        <td class="alignright msloss"><small>-0.6</small></td>
+	        <td class="alignright">1,592.8<input type="hidden" id="BAFINwtg" name="BAFINwtg" value="3.0"></td>
+	        <td class="alignright">2,557,345</td>
+	        
+	        <td class="alignright">0.4</td>
+	        
+	        <td class="alignright">122,084
+	        </td>
+	        <td class="alignright">76.6</td>
+	        <td class="alignright">20.9</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=MAHM&amp;name=MM-Stock-Quote-Chart">M&amp;M</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/auto">AUTOMOBILES</a></td>
+	        
+	        <td class="alignright">1,557.6</td>
+	        <td class="alignright msloss"><small>-0.6</small></td>
+	        <td class="alignright">1,243.5<input type="hidden" id="MAHMwtg" name="MAHMwtg" value="2.3"></td>
+	        <td class="alignright">1,936,858</td>
+	        
+	        <td class="alignright">0.8</td>
+	        
+	        <td class="alignright">98,690
+	        </td>
+	        <td class="alignright">79.4</td>
+	        <td class="alignright">19.6</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=NTPC&amp;name=NTPC-Stock-Quote-Chart">NTPC</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/power">POWER</a></td>
+	        
+	        <td class="alignright">186.8</td>
+	        <td class="alignright msloss"><small>-0.6</small></td>
+	        <td class="alignright">9,696.7<input type="hidden" id="NTPCwtg" name="NTPCwtg" value="2.2"></td>
+	        <td class="alignright">1,810,852</td>
+	        
+	        <td class="alignright">0.5</td>
+	        
+	        <td class="alignright">167,547
+	        </td>
+	        <td class="alignright">17.3</td>
+	        <td class="alignright">10.8</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=TITN&amp;name=TITAN-Stock-Quote-Chart">TITAN</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/retail">RETAILING</a></td>
+	        
+	        <td class="alignright">3,064.8</td>
+	        <td class="alignright msloss"><small>-0.6</small></td>
+	        <td class="alignright">887.8<input type="hidden" id="TITNwtg" name="TITNwtg" value="3.2"></td>
+	        <td class="alignright">2,720,843</td>
+	        
+	        <td class="alignright">0.5</td>
+	        
+	        <td class="alignright">32,730
+	        </td>
+	        <td class="alignright">36.9</td>
+	        <td class="alignright">83.1</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=ADEX&amp;name=ADANI-ENTERPRISES-Stock-Quote-Chart">ADANI ENTERPRISES</a></td>
+	        
+	        <td class="alignleft">MISCELLANEOUS</td>
+	        
+	        <td class="alignright">2,344.1</td>
+	        <td class="alignright msloss"><small>-0.8</small></td>
+	        <td class="alignright">1,140.0<input type="hidden" id="ADEXwtg" name="ADEXwtg" value="3.2"></td>
+	        <td class="alignright">2,672,220</td>
+	        
+	        <td class="alignright">0.3</td>
+	        
+	        <td class="alignright">22,089
+	        </td>
+	        <td class="alignright">19.4</td>
+	        <td class="alignright">121.0</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=SUNP&amp;name=SUN-PHARMA-Stock-Quote-Chart">SUN PHARMA</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/pharma">PHARMACEUTICALS</a></td>
+	        
+	        <td class="alignright">1,066.9</td>
+	        <td class="alignright msloss"><small>-0.8</small></td>
+	        <td class="alignright">2,399.3<input type="hidden" id="SUNPwtg" name="SUNPwtg" value="3.0"></td>
+	        <td class="alignright">2,559,731</td>
+	        
+	        <td class="alignright">0.5</td>
+	        
+	        <td class="alignright">85,608
+	        </td>
+	        <td class="alignright">35.7</td>
+	        <td class="alignright">29.9</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=BJFN&amp;name=BAJAJ-FINANCE-Stock-Quote-Chart">BAJAJ FINANCE</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/finance">FINANCE</a></td>
+	        
+	        <td class="alignright">7,411.7</td>
+	        <td class="alignright msloss"><small>-0.8</small></td>
+	        <td class="alignright">605.9<input type="hidden" id="BJFNwtg" name="BJFNwtg" value="5.3"></td>
+	        <td class="alignright">4,490,886</td>
+	        
+	        <td class="alignright">0.4</td>
+	        
+	        <td class="alignright">115,060
+	        </td>
+	        <td class="alignright">189.9</td>
+	        <td class="alignright">39.0</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=UTIB&amp;name=AXIS-BANK-Stock-Quote-Chart">AXIS BANK</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/bank">BANKING</a></td>
+	        
+	        <td class="alignright">950.5</td>
+	        <td class="alignright msloss"><small>-1.0</small></td>
+	        <td class="alignright">3,079.9<input type="hidden" id="UTIBwtg" name="UTIBwtg" value="3.5"></td>
+	        <td class="alignright">2,927,429</td>
+	        
+	        <td class="alignright">0.9</td>
+	        
+	        <td class="alignright">108,527
+	        </td>
+	        <td class="alignright">35.2</td>
+	        <td class="alignright">27.0</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=APLH&amp;name=APOLLO-HOSPITALS-Stock-Quote-Chart">APOLLO HOSPITALS</a></td>
+	        
+	        <td class="alignleft">MISCELLANEOUS</td>
+	        
+	        <td class="alignright">5,127.0</td>
+	        <td class="alignright msloss"><small>-1.1</small></td>
+	        <td class="alignright">143.8<input type="hidden" id="APLHwtg" name="APLHwtg" value="0.9"></td>
+	        <td class="alignright">737,184</td>
+	        
+	        <td class="alignright">0.7</td>
+	        
+	        <td class="alignright">8,877
+	        </td>
+	        <td class="alignright">61.7</td>
+	        <td class="alignright">83.0</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=PGRID&amp;name=POWER-GRID-Stock-Quote-Chart">POWER GRID</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/power">POWER</a></td>
+	        
+	        <td class="alignright">240.1</td>
+	        <td class="alignright msloss"><small>-1.2</small></td>
+	        <td class="alignright">6,975.5<input type="hidden" id="PGRIDwtg" name="PGRIDwtg" value="2.0"></td>
+	        <td class="alignright">1,674,806</td>
+	        
+	        <td class="alignright">0.5</td>
+	        
+	        <td class="alignright">152,507
+	        </td>
+	        <td class="alignright">21.9</td>
+	        <td class="alignright">11.0</td>
+	        </tr>
+		        
+	        <tr bgcolor="white" height="22">
+	        <td class="alignleft"><a href="/result.asp?symbol=HDFCL&amp;name=HDFC-LIFE-INSURANCE-Stock-Quote-Chart">HDFC LIFE INSURANCE</a></td>
+	        
+	        <td class="alignleft"><a style="color:black" href="/research-it/sector-info/insurance">INSURANCE</a></td>
+	        
+	        <td class="alignright">667.4</td>
+	        <td class="alignright msloss"><small>-1.9</small></td>
+	        <td class="alignright">2,149.7<input type="hidden" id="HDFCLwtg" name="HDFCLwtg" value="1.7"></td>
+	        <td class="alignright">1,434,696</td>
+	        
+	        <td class="alignright">0.5</td>
+	        
+	        <td class="alignright">13,357
+	        </td>
+	        <td class="alignright">6.2</td>
+	        <td class="alignright">107.4</td>
+	        </tr>
+		        
+        </tbody>
+        <tfoot>
+        <tr>
+        <td colspan="4">TOTAL</td>
+        <td class="alignright">164,544</td>
+        <td class="alignright">150,548,030</td>
+        <td class="alignright"></td>
+        <td class="alignright">6,422,901</td>
+        <td class="alignright">Avg. PER</td>
+        <td class="alignright">23.4</td>
+        </tr>
+        </tfoot>
+    </table>
+        </div>
